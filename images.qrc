@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/chessPiece">
+        <file>R.png</file>
+        <file>r.png</file>
+        <file>Q.png</file>
+        <file>q.png</file>
+        <file>P.png</file>
+        <file>p.png</file>
+        <file>N.png</file>
+        <file>n.png</file>
+        <file>K.png</file>
+        <file>k.png</file>
+        <file>B.png</file>
+        <file>b.png</file>
+    </qresource>
+    <qresource prefix="/TextFile">
+        <file>Position.txt</file>
+    </qresource>
+</RCC>
